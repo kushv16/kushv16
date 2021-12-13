@@ -29,8 +29,7 @@
 ✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**<br>
 ✔ **Google Cloud Campus Facilitator** '21<br>
 ✔ **Microsoft Learn Student Ambassador**  
-<!-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br> -->
+<br>
  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
