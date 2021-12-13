@@ -5,8 +5,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
 <h3 align="center">Software Developer | Full Stack Developer | Deep Learning </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kushv16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+ <a href = 'https://www.linkedin.com/in/kushv16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
  <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href = 'https://kushvora.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/kushv16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<br>
 </p>
 
 
@@ -32,7 +35,7 @@
 <br>
  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
+<p align="center">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145873250-2c6b8c8f-63a2-40f4-968b-931bf43ef445.png" alt="python">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145874839-f92b980e-26a7-4ea1-9155-09989929bf74.png">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145874922-4513dc70-0431-4691-8638-dc38d57118f5.png">
