@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+ <img src="https://user-images.githubusercontent.com/59636993/146665886-d776a864-3b11-45c7-96bb-1084870b2fce.png"/>
+
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
+<h1 style="color:red" align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
 <h3 align="center">Software Developer | Full Stack Developer | Deep Learning </h3>
 <p align="center">
  <a href = 'https://www.linkedin.com/in/kushv16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
