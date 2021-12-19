@@ -1,41 +1,53 @@
 <p align="center">
+ 
  <img src="https://user-images.githubusercontent.com/59636993/146665886-d776a864-3b11-45c7-96bb-1084870b2fce.png"/>
 
-</p>
-<hr>
-<h1 style="color:red" align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
-<h3 align="center">Software Developer | Full Stack Developer | Deep Learning </h3>
-<p align="center">
- <a href = 'https://www.linkedin.com/in/kushv16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
- <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href = 'https://kushvora.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/kushv16'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<br>
-</p>
+ <hr>
+ <h1 style="color:red" align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
+ <h3 align="center">Software Developer | Full Stack Developer | Deep Learning </h3>
+ 
+ <p align="center">
+   <a href = 'https://www.linkedin.com/in/kushv16'> <img width = '32px' align= 'center'          
+                                                                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+   <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+   <a href = 'https://kushvora.me/'> <img width = '32px' align= 'center'                    
+                                          src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+   <a href = 'https://www.github.com/kushv16'> <img width = '32px' align= 'center' 
+                                                    src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+   <br>
+ </p>
 
 
 
 <p align="center">
   <em>
-    I'm Kush Vora, a <b>pre final year</b> B.Tech (CSE) undergraduate from <b> K.J. Somaiya College Of Engineering </b>, Mumbai. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a <b>strong foundation of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>and <b>proficient</b> in developing web applications.<br>
+    I'm Kush Vora, a <b>pre final year</b> B.Tech (CSE) undergraduate from <b> K.J. Somaiya College Of Engineering </b>, Mumbai. 
+    <br>
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a <b>strong foundation     of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>and <b>proficient</b> in developing web     applications.
+     <br>
     <b>Grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+  <b><i>One Step at a Time!!!</i></b> 
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />                                                                                     
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me...***
+<img height="70" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
 
-✔ I’m currently working on **Deep Learning** Research Projects<br>
-✔ I’m currently learning **Computer Vision**<br>
-✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**<br>
-✔ **Google Cloud Campus Facilitator** '21<br>
-✔ **Microsoft Learn Student Ambassador**  
+✔ I’m currently working on **Deep Learning** Research Projects
+<br>
+✔ I’m currently learning **Computer Vision**
+<br>
+✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**
+<br>
+✔ **Google Cloud Campus Facilitator** '21 
+<br>
+✔ **Microsoft Learn Student Ambassador** 
 <br>
  
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<img height="80" src="https://user-images.githubusercontent.com/59636993/146688995-4291b468-9692-492a-bd8b-fb3f2c26bc74.gif">&nbsp;***Languages & Tools I Know...***
 <p align="center">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145873250-2c6b8c8f-63a2-40f4-968b-931bf43ef445.png" alt="python">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145874839-f92b980e-26a7-4ea1-9155-09989929bf74.png">
@@ -64,11 +76,16 @@
   <hr>
   
 <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://user-images.githubusercontent.com/59636993/146689046-ca9c05af-a0a3-477b-9234-0ac69138efd9.gif" width="40" alt="GitHub-Status"/>&nbsp;
+  <i><b>GitHub Stats</b></i>
+ <img src="https://user-images.githubusercontent.com/59636993/146689046-ca9c05af-a0a3-477b-9234-0ac69138efd9.gif" width="40" alt="GitHub-Status"/></p>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushv16&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kushv16" />
+ <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushv16&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kushv16" />
+ </p>
+
+<p>
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kushv16&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="kushv16"     
+             width="410" />
 </p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kushv16&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="kushv16" width="410" /></p>
 
 <hr>
