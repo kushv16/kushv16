@@ -4,7 +4,7 @@
 
  <hr>
  <h1 style="color:red" align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
- <h3 align="center">Software Developer | Full Stack Developer | Deep Learning </h3>
+ <h3 align="center">Software Developer | Full Stack Developer | Deep Learning Enthusiast</h3>
  
  <p align="center">
    <a href = 'https://www.linkedin.com/in/kushv16'> <img width = '32px' align= 'center'          
