@@ -36,7 +36,7 @@
 
 <img height="70" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
 
-✔ Github Extern '22 @ Symbl.ai
+✔ **Github Extern** '22 @ Symbl.ai
 <br>
 ✔ I’m currently working on **Deep Learning** Research Projects
 <br>
