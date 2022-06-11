@@ -3,12 +3,11 @@
  <img src="https://user-images.githubusercontent.com/59636993/146665886-d776a864-3b11-45c7-96bb-1084870b2fce.png"/>
 
  <hr>
- <h1 style="color:red" align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kush Vora</h1>
+ <h1 style="color:red" align="center">Hi <img style="width:30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Kush Vora</h1>
  <h3 align="center">Software Developer | Full Stack Developer | Deep Learning Enthusiast</h3>
  
  <p align="center">
-   <a href = 'https://www.linkedin.com/in/kushv16'> <img width = '32px' align= 'center'          
-                                                                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+   <a href = 'https://www.linkedin.com/in/kushv16'> <img width = "32px" align= 'center'     src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
    <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
    <a href = 'https://kushvora.me/'> <img width = '32px' align= 'center'                    
                                           src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
