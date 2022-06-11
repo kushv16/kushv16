@@ -38,15 +38,14 @@
 
 ✔ **Github Extern** '22 @ [**Symbl.ai**](https://www.linkedin.com/company/symbldotai/mycompany/)
 <br>
-✔ I’m currently working on **Deep Learning** Research Projects
-<br>
-✔ I’m currently learning **Computer Vision**
+✔ I’m currently working on **Deep Learning** Projects
 <br>
 ✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**
 <br>
 ✔ **Google Cloud Campus Facilitator** '21 
 <br>
-✔ **Microsoft Learn Student Ambassador** 
+✔ Former **Software Developer Intern** at **NxtBig Software Labs**
+<br>
 <br>
  
 <img height="80" src="https://user-images.githubusercontent.com/59636993/146688995-4291b468-9692-492a-bd8b-fb3f2c26bc74.gif">&nbsp;***Languages & Tools I Know...***
