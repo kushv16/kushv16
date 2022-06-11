@@ -3,15 +3,16 @@
  <img src="https://user-images.githubusercontent.com/59636993/146665886-d776a864-3b11-45c7-96bb-1084870b2fce.png"/>
 
  <hr>
- <h1 style="color:red" align="center">Hi <img style="width:30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Kush Vora</h1>
+ <h1 style="color:red" align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Kush Vora</h1>
  <h3 align="center">Software Developer | Full Stack Developer | Deep Learning Enthusiast</h3>
  
  <p align="center">
-   <a href = 'https://www.linkedin.com/in/kushv16'> <img width = "32px" align= 'center'     src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-   <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-   <a href = 'https://kushvora.me/'> <img width = '32px' align= 'center'                    
+   <a href = 'https://www.linkedin.com/in/kushv16'> <img height = '32px' align= 'center'          
+                                                                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+   <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30px" width="40px" /></a>
+   <a href = 'https://kushvora.me/'> <img height = '32px' align= 'center'                    
                                           src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-   <a href = 'https://www.github.com/kushv16'> <img width = '32px' align= 'center' 
+   <a href = 'https://www.github.com/kushv16'> <img height = '32px' align= 'center' 
                                                     src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
    <br>
  </p>
@@ -22,15 +23,15 @@
   <em>
     I'm Kush Vora, a <b>pre final year</b> B.Tech (CSE) undergraduate from <b> K.J. Somaiya College Of Engineering </b>, Mumbai. 
     <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> with a <b>strong foundation     of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>and <b>proficient</b> in developing web     applications.
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px"> with a <b>strong foundation     of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="36px">&nbsp,<br>and <b>proficient</b> in developing web     applications.
      <br>
-    <b>Grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>Grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="18px">and 
+    <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50px" /> 
   <b><i>One Step at a Time!!!</i></b> 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />                                                                                     
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" height="50px" />                                                                                     
 </p>
 
 <img height="70" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
