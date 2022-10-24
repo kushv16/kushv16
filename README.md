@@ -8,15 +8,16 @@
  
  <p align="center">
    <a href = 'https://www.linkedin.com/in/kushv16'> <img height = '32px' align= 'center'          
-                                                                src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-   <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30px" width="40px" /></a>
-   <a href = 'https://kushvora.me/'> <img height = '32px' align= 'center'                    
+                                                                src="https://user-images.githubusercontent.com/59636993/197564116-ce312ec5-9fa3-4efa-bfed-8bdbc8e11473.png"/></a> 
+   <a href = "mailto: vorakush@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/59636993/197564394-88847d73-85e0-4021-9f7a-43d180fc2111.png" height="32px" /></a>
+   <a href = 'https://scholar.google.com/citations?user=-R9p-zUAAAAJ&hl=en'> <img height = '32px' align= 'center' 
+                                                    src="https://user-images.githubusercontent.com/59636993/197563742-f4608a42-8901-4e6c-9304-94da46476247.png"/> </a>
+ <a href = 'https://kushvora.com/'> <img height = '32px' align= 'center'                    
                                           src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-   <a href = 'https://www.github.com/kushv16'> <img height = '32px' align= 'center' 
-                                                    src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+ 
+   
    <br>
  </p>
-
 
 
 <p align="center">
