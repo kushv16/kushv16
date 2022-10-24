@@ -4,7 +4,7 @@
 
  <hr>
  <h1 style="color:red" align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Kush Vora</h1>
- <h3 align="center">Software Developer | Full Stack Developer | Deep Learning Enthusiast</h3>
+ <h3 align="center">AI Enthusiast | Software Developer | Full Stack Developer</h3>
  
  <p align="center">
    <a href = 'https://www.linkedin.com/in/kushv16'> <img height = '32px' align= 'center'          
@@ -37,9 +37,9 @@
 
 <img height="70" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
 
-✔ **Github Extern** '22 @ [**Symbl.ai**](https://www.linkedin.com/company/symbldotai/mycompany/)
+✔ I’m currently working on research projects in the domain of healthcare and medical imaging
 <br>
-✔ I’m currently working on **Deep Learning** Projects
+✔ **Github Extern** '22 @ [**Symbl.ai**](https://www.linkedin.com/company/symbldotai/mycompany/)
 <br>
 ✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**
 <br>
