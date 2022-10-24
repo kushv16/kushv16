@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-    I'm Kush Vora, a <b>pre final year</b> B.Tech (CSE) undergraduate from <b> K.J. Somaiya College Of Engineering </b>, Mumbai. 
+    I'm Kush Vora, a <b> final year</b> B.Tech (CSE) undergraduate from <b> K.J. Somaiya College Of Engineering </b>, Mumbai. 
     <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px"> with a <b>strong foundation     of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="36px">&nbsp,<br>and <b>proficient</b> in developing web     applications.
      <br>
