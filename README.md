@@ -14,8 +14,6 @@
                                                     src="https://user-images.githubusercontent.com/59636993/197563742-f4608a42-8901-4e6c-9304-94da46476247.png"/> </a>
  <a href = 'https://kushvora.com/'> <img height = '32px' align= 'center'                    
                                           src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
- 
-   
    <br>
  </p>
 
@@ -26,16 +24,16 @@
     <br>
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px"> with a <b>strong foundation     of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="36px">&nbsp,<br>and <b>proficient</b> in developing web     applications.
      <br>
-    <b>Grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="18px">and 
-    <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="20px">&nbsp.
+<!--     <b>Grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="18px" width="18px">and 
+    <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="20px" width="20px">&nbsp. -->
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50px" /> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="80px" width="80px"/> 
   <b><i>One Step at a Time!!!</i></b> 
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" height="50px" />                                                                                     
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" height="80px" width="80px"/>                                                                                     
 </p>
 
-<img height="70" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
+<img height="70px" width="70px" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
 
 ✔ I’m currently working on research projects in the domain of healthcare and medical imaging
 <br>
@@ -49,7 +47,7 @@
 <br>
 <br>
  
-<img height="80" src="https://user-images.githubusercontent.com/59636993/146688995-4291b468-9692-492a-bd8b-fb3f2c26bc74.gif">&nbsp;***Languages & Tools I Know...***
+<img height="80px" width="80px" src="https://user-images.githubusercontent.com/59636993/146688995-4291b468-9692-492a-bd8b-fb3f2c26bc74.gif">&nbsp;***Languages & Tools I Know...***
 <p align="center">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145873250-2c6b8c8f-63a2-40f4-968b-931bf43ef445.png" alt="python">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145874839-f92b980e-26a7-4ea1-9155-09989929bf74.png">
