@@ -3,7 +3,7 @@
  <img src="https://user-images.githubusercontent.com/59636993/146665886-d776a864-3b11-45c7-96bb-1084870b2fce.png"/>
 
  <hr>
- <h1 style="color:red" align="center">Hi <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">, I'm Kush Vora</h1>
+ <h1 style="color:red" align="center">Hi, <img width="60px" height="60px" src="https://user-images.githubusercontent.com/59636993/210519558-a27ff9fb-3fc6-43cb-b975-64ec3ae6167c.gif"> I'm Kush Vora</h1>
  <h3 align="center">AI Enthusiast | Software Developer | Full Stack Developer</h3>
  
  <p align="center">
@@ -13,19 +13,18 @@
    <a href = 'https://scholar.google.com/citations?user=-R9p-zUAAAAJ&hl=en'> <img height = '32px' align= 'center' 
                                                     src="https://user-images.githubusercontent.com/59636993/197563742-f4608a42-8901-4e6c-9304-94da46476247.png"/> </a>
  <a href = 'https://kushvora.com/'> <img height = '32px' align= 'center'                    
-                                          src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+                                          src="https://user-images.githubusercontent.com/59636993/210518549-1161a1ff-bc51-4906-b51c-d619d0b0d727.png"/>
    <br>
  </p>
 
 
+
 <p align="center">
   <em>
-    I'm Kush Vora, a <b> final year</b> B.Tech (CSE) undergraduate from <b> K.J. Somaiya College Of Engineering </b>, Mumbai. 
+   I am a <b>Computer Engineering</b> student at <b>KJ Somaiya College of Engineering</b> in Mumbai and I am in my <b>final year</b> of study.
     <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px"> with a <b>strong foundation     of DSA </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="36px">&nbsp,<br>and <b>proficient</b> in developing web     applications.
+    A budding <b>Software Developer</b> <img src="https://user-images.githubusercontent.com/59636993/210520768-4bc1076f-0245-4ca1-aa24-8a8c07f48a64.gif"  width="80px"> with a <b>strong foundation of DSA </b><br>and <b>proficient</b> in developing softwares and web applications.
      <br>
-<!--     <b>Grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" height="18px" width="18px">and 
-    <b>Excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" height="20px" width="20px">&nbsp. -->
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="80px" width="80px"/> 
