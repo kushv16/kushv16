@@ -4,7 +4,7 @@
 
  <hr>
  <h1 style="color:red" align="center">Hi, <img width="60px" height="60px" src="https://user-images.githubusercontent.com/59636993/210519558-a27ff9fb-3fc6-43cb-b975-64ec3ae6167c.gif"> I'm Kush Vora</h1>
- <h3 align="center">AI Enthusiast | Software Developer | Full Stack Developer</h3>
+ <h3 align="center">Software Engineer</h3>
  
  <p align="center">
    <a href = 'https://www.linkedin.com/in/kushv16'> <img height = '32px' align= 'center'          
@@ -21,7 +21,7 @@
 
 <p align="center">
   <em>
-   I am a <b>Computer Engineering</b> student at <b>KJ Somaiya College of Engineering</b> in Mumbai and I am in my <b>final year</b> of study.
+   I am a <b>grad </b> student at <b>Pennsylvania State University</b> in United States and I am in my <b>first year</b> of study.
     <br>
     A budding <b>Software Developer</b> <img src="https://user-images.githubusercontent.com/59636993/210520768-4bc1076f-0245-4ca1-aa24-8a8c07f48a64.gif"  width="80px"> with a <b>strong foundation of DSA </b><br>and <b>proficient</b> in developing softwares and web applications.
      <br>
