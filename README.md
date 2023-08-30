@@ -34,8 +34,7 @@
 
 <img height="70px" width="70px" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
 
-✔ I’m currently working on research projects in the domain of healthcare and medical imaging
-<br>
+
 ✔ **Github Extern** '22 @ [**Symbl.ai**](https://www.linkedin.com/company/symbldotai/mycompany/)
 <br>
 ✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**
