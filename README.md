@@ -3,8 +3,8 @@
  <img src="https://user-images.githubusercontent.com/59636993/146665886-d776a864-3b11-45c7-96bb-1084870b2fce.png"/>
 
  <hr>
- <h1 style="color:red" align="center">Hi, <img width="60px" height="60px" src="https://user-images.githubusercontent.com/59636993/210519558-a27ff9fb-3fc6-43cb-b975-64ec3ae6167c.gif"> I'm Kush Vora</h1>
- <h3 align="center">Software Engineer</h3>
+ <h1 style="color:red" align="center">Hey <img width="60px" height="60px" src="https://user-images.githubusercontent.com/59636993/210519558-a27ff9fb-3fc6-43cb-b975-64ec3ae6167c.gif">, I'm Kush Vora</h1>
+ <h3 align="center">Machine Learning Engineer</h3>
  
  <p align="center">
    <a href = 'https://www.linkedin.com/in/kushv16'> <img height = '32px' align= 'center'          
@@ -21,10 +21,7 @@
 
 <p align="center">
   <em>
-   I am a <b>grad </b> student at <b>Pennsylvania State University</b> in United States and I am in my <b>first year</b> of study.
-    <br>
-    A budding <b>Software Developer</b> <img src="https://user-images.githubusercontent.com/59636993/210520768-4bc1076f-0245-4ca1-aa24-8a8c07f48a64.gif"  width="80px"> with a <b>strong foundation of DSA </b><br>and <b>proficient</b> in developing softwares and web applications.
-     <br>
+   As a Master's student in Computer Science at Pennsylvania State University, I am driven by a passion for exploring the boundless potential of artificial intelligence. With a strong foundation in computer science principles and a keen interest in cutting-edge technologies, I am constantly seeking opportunities to push the boundaries of what's possible.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="80px" width="80px"/> 
@@ -34,18 +31,21 @@
 
 <img height="70px" width="70px" src="https://user-images.githubusercontent.com/59636993/146688888-b7a70cc4-52a1-4480-8266-53b77984f6c4.gif">&nbsp;***About Me...***
 
-✔ MS CS at **Penn State**
+✔ Machine Learning Engineer at **Palo Alto Networks**
 <br>
-✔ **Github Extern** '22 @ [**Symbl.ai**](https://www.linkedin.com/company/symbldotai/mycompany/)
+✔ 2nd year **Masters in Computer Science** student at **Pennsylvania State University**
 <br>
-✔ First Prize <img src="https://user-images.githubusercontent.com/59636993/145875580-4418fa65-e956-49d1-bcd4-5051b11c284c.png" width="18px"> at Hackerbash Hackathon organized by **Computer Society Of India, KJSCE**
+✔ Previously interned as **Software Engineer** @ [**Symbl.ai**](https://www.linkedin.com/company/symbldotai/mycompany/) and NxtBig Software Labs
 <br>
-✔ **Google Cloud Campus Facilitator** '21 
+✔ **First Prize winner** at Hackerbash Hackathon (out of 40 teams) organized by Computer Society Of India, KJSCE
 <br>
+✔ Authored 6 research papers in the field of **Artificial Intelligence powered Health Care Systems**
+<br>
+✔ **Graduate Teaching Assistant** at **Penn State** responsible for teaching Java and Python to undergraduate students
 <br>
 <br>
  
-<img height="80px" width="80px" src="https://user-images.githubusercontent.com/59636993/146688995-4291b468-9692-492a-bd8b-fb3f2c26bc74.gif">&nbsp;***Languages & Tools I Know...***
+<img height="80px" width="80px" src="https://user-images.githubusercontent.com/59636993/146688995-4291b468-9692-492a-bd8b-fb3f2c26bc74.gif">&nbsp;***Languages & Tools I am familar working with...***
 <p align="center">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145873250-2c6b8c8f-63a2-40f4-968b-931bf43ef445.png" alt="python">
   <img height="50" src="https://user-images.githubusercontent.com/59636993/145874839-f92b980e-26a7-4ea1-9155-09989929bf74.png">
